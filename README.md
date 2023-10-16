@@ -7,10 +7,10 @@
 ## Mis repositorios
 
 ### Trabajos del SENA:
-🔗 📁 [Repositorio en GitHub](https://github.com/jhonnCorredor/TrabajosSena.git)
+🔗 📁 [TrabajosSENA](https://github.com/jhonnCorredor/TrabajosSena.git)
 
 ### Trabajos Instructor Jesus Ariel:
-🔗 📁 [Repositorio en GitHub](https://github.com/jhonnCorredor/JesusGonzalez-ADSO-2694679.git)
+🔗 📁 [JesusGonzalez-ADSO-2694679](https://github.com/jhonnCorredor/JesusGonzalez-ADSO-2694679.git)
 
 ### Proyecto Monolito-Tienda-de-Manolo:
-🔗 📁 [Repositorio en GitHub](https://github.com/jhonnCorredor/Monolito-Tienda-de-Manolo.git)
+🔗 📁 [Monolito-Tienda-de-Manolo](https://github.com/jhonnCorredor/Monolito-Tienda-de-Manolo.git)
