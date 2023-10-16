@@ -1,16 +1,16 @@
-### Hi there 👋
+# Acerca de mí
+👋 ¡Hola! Soy Jhon Alexander Corredor Medina, un apasionado de la programación. Me encanta aprender y experimentar con nuevas tecnologías. Actualmente, estoy aprendiendo programación básica en Java y estoy emocionado de seguir aprendiendo y mejorando mis habilidades. 
 
-<!--
-**jhonnCorredor/jhonnCorredor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mis habilidades
+- Programación básica en Java. 🚀
 
-Here are some ideas to get you started:
+## Mis repositorios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Trabajos del SENA:
+🔗 📁 [Repositorio en GitHub](https://github.com/jhonnCorredor/TrabajosSena.git)
+
+### Trabajos Instructor Jesus Ariel:
+🔗 📁 [Repositorio en GitHub](https://github.com/jhonnCorredor/JesusGonzalez-ADSO-2694679.git)
+
+### Proyecto Monolito-Tienda-de-Manolo:
+🔗 📁 [Repositorio en GitHub](https://github.com/jhonnCorredor/Monolito-Tienda-de-Manolo.git)
